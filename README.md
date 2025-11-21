@@ -1,4 +1,4 @@
-# Smart IoT Hydration & Health Bottle
+# Auraa -- Smart Water Bottle 
 
 > A compact, connected water bottle that monitors water quality, tracks hydration behavior, and provides personalized health-driven hydration guidance.
 
