@@ -133,13 +133,3 @@ Refer to the below circuit diagram and flowchart.
 * On-device LSTM or lightweight ML for personalized hydration prediction.
 * Federated learning for privacy-preserving model improvements.
 * Mobile app with user profiles, reminders, and cloud analytics.
-
----
-
-## Author
-
-**Priyansh Neel** — IoT, Embedded Systems & HealthTech
-
----
-
-If you want, I can also export this README as a downloadable file or generate a simpler one-page version for your project report.
