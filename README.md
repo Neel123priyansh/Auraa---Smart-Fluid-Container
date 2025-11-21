@@ -68,7 +68,7 @@ A non-exhaustive list used in prototypes:
 ## Refer to the below circuit diagram for bottle's body.
 ![alt text](https://github.com/Neel123priyansh/Auraa---Smart-Fluid-Container/blob/master/img/Screenshot%202025-11-21%20145924.png/?raw=true)
 ## Refer to the below circuit diagram for bottle's cap.
-![alt text](https://github.com/Neel123priyansh/Auraa---Smart-Fluid-Container/blob/master/img/Screenshot%202025-11-21%20145924.png/?raw=true)
+![alt text](https://github.com/Neel123priyansh/Auraa---Smart-Fluid-Container/blob/master/img/Screenshot%202025-11-21%20193348.png/?raw=true)
 
 ---
 
