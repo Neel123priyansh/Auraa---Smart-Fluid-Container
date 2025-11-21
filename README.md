@@ -65,7 +65,8 @@ A non-exhaustive list used in prototypes:
 * **UV-C LED:** driven by MOSFET; MCU GPIO → gate. Include current limiting and thermal management.
 * **Reed/magnet or timer:** cap-close detection can use a reed switch (GPIO + INPUT_PULLUP) or a simple countdown trigger for testing.
 
-Refer to the `technical_specs` document for block diagrams and flowcharts.
+Refer to the below circuit diagram and flowchart.
+![alt text](https://github.com/Neel123priyansh/Auraa---Smart-Fluid-Container/blob/master/img/Screenshot%2025-11-21%145924.png/?raw=true)
 
 ---
 
