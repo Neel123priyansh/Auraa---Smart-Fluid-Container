@@ -2,7 +2,7 @@
 
 > A compact, connected water bottle that monitors water quality, tracks hydration behavior, and provides personalized health-driven hydration guidance.
 
-![Bottle Concept](img\Screenshot 2024-12-21 165510.png)
+![alt text](https://github.com/Neel123priyansh/Auraa---Smart-Fluid-Container/blob/master/img/Screenshot%202024-12-21%20165510.png/?raw=true)
 
 ---
 
