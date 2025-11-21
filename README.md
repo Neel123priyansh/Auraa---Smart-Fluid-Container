@@ -2,7 +2,7 @@
 
 > A compact, connected water bottle that monitors water quality, tracks hydration behavior, and provides personalized health-driven hydration guidance.
 
-![Bottle Concept](/mnt/data/A_sleek_and_modern_smart_water_bottle_concept_with.png)
+![Bottle Concept](img\Screenshot 2024-12-21 165510.png)
 
 ---
 
