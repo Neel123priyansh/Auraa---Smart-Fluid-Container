@@ -81,6 +81,7 @@ Refer to the below circuit diagram and flowchart.
 5. **Power management:** sensor multiplexing and deep-sleep for NodeMCU between events.
 
 **Example deploy:** microcontroller runs sensor loop and exposes a `/data` JSON endpoint for the React dashboard; backend (optional) stores time-series for model training.
+![alt text](https://github.com/Neel123priyansh/Auraa---Smart-Fluid-Container/blob/master/img/image.png/?raw=true)
 
 ---
 
